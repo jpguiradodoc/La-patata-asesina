@@ -7,4 +7,3 @@ El equipo de desarrollo ha sido
  - Pedro
  - Lucia
  - 
-Esta es una edición del readme
